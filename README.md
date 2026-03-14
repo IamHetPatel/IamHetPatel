@@ -1,12 +1,12 @@
 <h1 align="center">Howdy👋, nice seeing you here!</h1>
 
-<h3 align="center">I am Het Patel, a MERN stack Developer, always eager to explore different fields of Computer Science.</h3>
+<h3 align="center">I am Het Patel, an AI & full-stack Developer, always eager to explore different fields of Computer Science.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhetpatel&label=Profile%20views&color=000066&style=flat" alt="iamhetpatel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hetrpatel27" target="blank"><img src="https://img.shields.io/twitter/follow/hetrpatel27?logo=twitter&style=for-the-badge" alt="hetrpatel27" /></a> </p>
 
-- 🌱 I’m currently also exploring **Data Science** & **GEN AI**
+- 🌱 I’m currently also building myself in **Data Science** & **Applied AI**
 
 - 💬 Ask me about **anything and I'll be ready to explore it and help.**
 
