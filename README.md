@@ -28,7 +28,7 @@ PyTorch · MONAI · SLURM on the Capella cluster
 
 ## Writing
 
-- [Your RAG faithfulness check is measuring copy-paste, not faithfulness](https://dev.to/) (Jun 2026): why token-overlap faithfulness fails and what NLI entailment fixes.
+- [Your RAG faithfulness check is measuring copy-paste, not faithfulness](https://dev.to/iamhetpatel/your-rag-faithfulness-check-is-measuring-copy-paste-not-faithfulness-39n3) (Jun 2026): why token-overlap faithfulness fails and what NLI entailment fixes.
 
 ## Elsewhere
 
