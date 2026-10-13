@@ -1,8 +1,8 @@
 # Het Patel
 
-AI systems engineer in training. M.Sc. Applied AI at TU Dresden (avg 1.5), working student at a Dresden AI startup. I build the layer around LLM and ML systems that decides whether you can trust them: retrieval, structured extraction, evaluation gates, tracing, and data pipelines that survive a handover.
+AI systems engineer in training. M.Sc. Applied AI at TU Dresden (avg 1.7), working student at a Dresden AI startup. I build the layer around LLM and ML systems that decides whether you can trust them: retrieval, structured extraction, evaluation gates, tracing, and data pipelines that survive a handover.
 
-Open to a **30-ECTS master's thesis in industry** (late 2026 / early 2027) in AI systems or ML infrastructure preferrably.
+Open to discussing opportunities including a **30-ECTS master's thesis** (early 2027) in AI systems or ML infrastructure preferrably.
 
 ## Works I've done
 
